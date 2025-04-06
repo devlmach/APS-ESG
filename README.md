@@ -10,18 +10,12 @@ Esse trabalho teve como objetivo a identificação de quanto uma empresa pretend
 
 === "Java"
 
-    ``` java
         Usamos java para a construção do back-end.
-    ```
 
 === "Banco de dados"
 
-    ``` PostgreSQL
         Usamos o PostgreSQL para guardarmos os dados para futuras consultas e armazenamento de dados.
-    ```
 
 === "Java Swing e JFreeChart"
 
-    ``` API
         Usamos uma API própria do Java para montagem do front-end além do JFreeChart para criação de interfaces com gráficos.
-    ```
