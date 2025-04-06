@@ -18,4 +18,4 @@ Esse trabalho teve como objetivo a identificação de quanto uma empresa pretend
 
 `Java Swing e JFreeChart`
 
-: Usamos uma API própria do Java para montagem do front-end além do JFreeChart para criação de interfaces com gráficos.
+:   Usamos uma API própria do Java para montagem do front-end além do JFreeChart para criação de interfaces com gráficos.
